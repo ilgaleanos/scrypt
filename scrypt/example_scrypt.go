@@ -12,7 +12,7 @@ import(
 
 func dummy( ) {
 	 // e.g. r.PostFormValue("password")
-	 passwordFromForm := "prew8fid9hick6c"
+	 passwordFromForm := "Alguna contraseña en modo texto"
 
 	 // Generates a derived key of the form "N$r$p$salt$dk" where N, r and p are defined as per
 	 // scrypt.Defaults (N=16384, r=8, p=1) makes it easy to provide these parameters, and
