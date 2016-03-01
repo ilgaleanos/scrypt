@@ -2,12 +2,12 @@
 // The MIT License (MIT)
 // Copyright (c) 2015 Matthew Silverlock (matt@eatsleeprepeat.net)
 //
-package xcrypto
+package dummy
 
 import(
 		"fmt"
 		"log"
-		// xcrypto "github.com/ilgaleanos/xcrypto"
+		xcrypto "github.com/ilgaleanos/xcrypto"
 )
 
 func dummy( ) {
