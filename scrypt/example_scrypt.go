@@ -7,7 +7,7 @@ package xcrypto
 import(
 		"fmt"
 		"log"
-		xcrypto "github.com/ilgaleanos/xcrypto"
+		// xcrypto "github.com/ilgaleanos/xcrypto"
 )
 
 func dummy( ) {
