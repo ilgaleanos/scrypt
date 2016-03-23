@@ -7,7 +7,7 @@
 // import(
 // 		"fmt"
 // 		"log"
-// 		xcrypto "github.com/ilgaleanos/xcrypto"
+// 		xcrypto "github.com/ilgaleanos/scrypt"
 // )
 //
 // func dummy( ) {
